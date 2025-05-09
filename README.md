@@ -21,7 +21,7 @@ The dataset used for this project contains house sale prices for King County, in
 ## Data Output
 The primary output of this project will be the completed template notebook containing the answers to the ten questions. This notebook includes code, visualizations, outputs and textual explanations based on the data analysis performed.
 
-## Insights (Expected)
+## Insights 
 - Identification of key features that significantly influence housing prices in the King County area.
 - Development of a model (as the goal is price prediction) to estimate house prices based on the available features.
 - Answers to specific questions posed in the template notebook, providing data-driven insights into the housing market in the given region.
